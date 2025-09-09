@@ -6,17 +6,20 @@ A modern, AI-powered e-commerce mobile application built with Flutter and Supaba
 
 <div align="center">
 <!-- Auth -->
+
+### 🔐 Authentication
   <img src="test/images/login.jpg" width="200" alt="Login Screen"/>
   <img src="test/images/register.jpg" width="200" alt="Register Screen"/>
   <img src="test/images/forgetpassword.jpg" width="200" alt="Forget Password Screen"/>
 
-
+### 🚀 Screens
   <img src="test/images/home.jpg" width="200" alt="Home Screen"/>
   <img src="test/images/search.jpg" width="200" alt="Search Screen"/>
   <img src="test/images/cart.jpg" width="200" alt="Cart Screen"/>
   <img src="test/images/favorites.jpg" width="200" alt="Favorites Screen"/>
   <img src="test/images/profile.jpg" width="200" alt="Profile Screen"/>
 
+### 🎨 Components
   <img src="test/images/filter.jpg" width="200" alt="Filter Component"/>
   <img src="test/images/payment.jpg" width="200" alt="Payment Component"/>
   <img src="test/images/profile.jpg" width="200" alt="Select Component"/>
