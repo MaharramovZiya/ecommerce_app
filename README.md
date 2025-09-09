@@ -22,7 +22,7 @@ A modern, AI-powered e-commerce mobile application built with Flutter and Supaba
 ### 🎨 Components
   <img src="test/images/filter.jpg" width="200" alt="Filter Component"/>
   <img src="test/images/payment.jpg" width="200" alt="Payment Component"/>
-  <img src="test/images/select" width="200" alt="Select Component"/>
+  <img src="test/images/select.jpg" width="200" alt="Select Component"/>
 
 
 
