@@ -1,0 +1,41 @@
+enum AppsIcons {
+  category('category'),
+  magic('magic'),
+  home('home'),
+  call('call'),
+  shoes('shoes'),
+  add('add'),
+  arrowLeft('arrow_left'),
+  arrowRight('arrow_right'),
+  arrowUp('arrow_up'),
+  arrowDown('arrow_down'),
+  basket('basket'),
+  minus('minus'),
+  basketBold('basket_bold'),
+  filter('filter'),
+  filterBold('filter_bold'),
+  homeBold('home_bold'),
+  profile('profile'),
+  profileBold('profile_bold'),
+  search('search'),
+  searchBold('search_bold'),
+  shop('shop'),
+  shopBold('shop_bold'),
+  sun('sun'),
+  moon('moon'),
+  moonBold('moon_bold'),
+  tshirt('tshirt'),
+  jeans('jeans'),
+  womenDress('women_dress'),
+  userBold('user_bold'),
+  user('user'),
+  visaCard('visa_card'),
+  heart('heart'),
+  heartBold('heart_bold'),
+  menu('menu'),
+  menu1('menu1');
+
+  const AppsIcons(this._name);
+  final String _name;
+  String get path => 'assets/icons/$_name.svg';
+}
